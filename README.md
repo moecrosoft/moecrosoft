@@ -11,39 +11,41 @@
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### ☁️ Cloud & DevOps
+### 🤖 AI / Machine Learning
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,firebase,supabase,vercel" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector%20Databases-Pgvector%20%7C%20FAISS%20%7C%20Chroma-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-lightgrey?style=for-the-badge" />
 </p>
 
-### 📚 Libraries & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,react,vite,p5js,bootstrap,nodejs,express,spring,wordpress" /
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)" />
-</p>
-<!-- TODO: ml5.js -->
+### ⚙️ Backend & AI Systems
 
-### 💻 Programming Languages & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,php,python,java,mysql,postgres,sqlite,html,css,cplusplus" />
+  <img src="https://skillicons.dev/icons?i=fastapi,python,nodejs" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🛠 Tools & Editors
+### 🌐 Frontend Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,xcode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,html,css" />
 </p>
 
-### 📕 Currently Learning
+### 🗄️ Databases & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=solidity,rust,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,githubactions,aws" />
+  <img src="https://img.shields.io/badge/Pgvector-Vector%20Search-blue?style=for-the-badge" />
 </p>
 
 ---
