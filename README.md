@@ -13,39 +13,36 @@
 
 ## 🛠 Tech Stack
 
-### 🤖 AI / Machine Learning
-
+### 🤖 AI & Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector%20Databases-Pgvector%20%7C%20FAISS%20%7C%20Chroma-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-lightgrey?style=for-the-badge" />
 </p>
 
-### ⚙️ Backend & AI Systems
-
+### 💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,tailwind,fastapi" />
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
-### 🌐 Frontend Development
-
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+  <img src="https://img.shields.io/badge/Pgvector-Vector%20Search-blue?style=for-the-badge" />
 </p>
 
-### 🗄️ Databases & DevOps
-
+### ⚙️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,githubactions,aws" />
-  <img src="https://img.shields.io/badge/Pgvector-Vector%20Search-blue?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws" />
 </p>
 
 ---
