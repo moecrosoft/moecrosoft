@@ -58,10 +58,10 @@
 ---
 
 ## 📫 Connect with Me  
-![LinkedIn](https://linkedin.com/in/desmond05)  
-![Email](mailto:desmond4705@gmail.com)  
-<!-- TODO: ![Portfolio](https://yourwebsite.com)   -->
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/moecrosoft)  
+[![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail)](mailto:moe.moepyesone77@gmail.com)
 
 ---
 
-!Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=desmond05&label=Profile%20Views&color=0e75b6&style=flat)
