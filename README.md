@@ -1,4 +1,4 @@
-# 👋 Hello , I'm Moe
+# 👋 Hello, I'm Moe
 
 💻 Computer Science Student Specialising in AI, Full Stack & DevOps
 
