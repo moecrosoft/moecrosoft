@@ -1,12 +1,67 @@
-<h1 align="center">Hi 👋, I'm Moe</h1>
-<h3 align="center">Building AI and Full Stack Projects</h3>
+# 👋 Hello , I'm Moe
 
-- 🔭 I’m currently working on end-to-end AI systems and Full Stack webapps
+💻 Computer Science Student Specialising in ML & AI | 🚀 Aspiring Full-Stack & Web3 Developer  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moecrosoft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moecrosoft" height="30" width="40" /></a>
+---
+
+## 🚀 About Me  
+- 🎯 Passionate about tech, coding, and building impactful digital products  
+- 🌱 Currently learning Next.js, Machine Learning, and Web3  
+- 📍 Based in Singapore  
+
+---
+
+## 🛠 Tech Stack  
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,firebase,supabase,vercel" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 📚 Libraries & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,nextjs,react,vite,p5js,bootstrap,nodejs,express,spring,wordpress" /
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)" />
+</p>
+<!-- TODO: ml5.js -->
+
+### 💻 Programming Languages & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,php,python,java,mysql,postgres,sqlite,html,css,cplusplus" />
+</p>
+
+### 🛠 Tools & Editors
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,xcode" />
+</p>
+
+### 📕 Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,rust,tensorflow" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+![Desmond's stats](https://github.com/desraymondz/github-readme-stats)
+![Top Langs](https://github.com/desraymondz/github-readme-stats)
+<div align="left">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=desraymondz&theme=dark" alt="GitHub Streak" /></a>
+</div>
+
+---
+
+## 📫 Connect with Me  
+![LinkedIn](https://linkedin.com/in/desmond05)  
+![Email](mailto:desmond4705@gmail.com)  
+<!-- TODO: ![Portfolio](https://yourwebsite.com)   -->
+
+---
+
+!Profile Views
