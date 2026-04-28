@@ -1,12 +1,12 @@
 # 👋 Hello , I'm Moe
 
-💻 Computer Science Student Specialising in ML & AI | 🚀 Aspiring Full-Stack & Web3 Developer  
+💻 Computer Science Student Specialising in AI, Full Stack & DevOps
 
 ---
 
 ## 🚀 About Me  
-- 🎯 Passionate about tech, coding, and building impactful digital products  
-- 🌱 Currently learning Next.js, Machine Learning, and Web3  
+- 🎯 Passionate about coding, engineering and reading 
+- 🌱 Currently building end-to-end AI projects 
 - 📍 Based in Singapore  
 
 ---
@@ -50,13 +50,13 @@
 
 ## 📊 GitHub Stats  
 
-![Desmond's stats](https://github-readme-stats.vercel.app/api?username=desraymondz&show_icons=true&theme=dark)
+![Moe's stats](https://github-readme-stats.vercel.app/api?username=moecrosoft&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desraymondz&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moecrosoft&layout=compact&theme=dark)
 
 <div align="left">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=desraymondz&theme=dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=moecrosoft&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -69,4 +69,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=desmond05&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=moecrosoft&label=Profile%20Views&color=0e75b6&style=flat)
