@@ -64,8 +64,8 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/moecrosoft)  
-[![Email](https://img.shields.io/badge/Email-Gmail-red?logo=gmail)](mailto:moe.moepyesone77@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/moecrosoft)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:moe.moepyesone77@gmail.com)
 
 ---
 
