@@ -49,10 +49,15 @@
 ---
 
 ## 📊 GitHub Stats  
-![Desmond's stats](https://github.com/desraymondz/github-readme-stats)
-![Top Langs](https://github.com/desraymondz/github-readme-stats)
+
+![Desmond's stats](https://github-readme-stats.vercel.app/api?username=desraymondz&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desraymondz&layout=compact&theme=dark)
+
 <div align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=desraymondz&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=desraymondz&theme=dark" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
