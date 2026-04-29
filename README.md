@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black" />
   <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vector%20Databases-Pgvector%20%7C%20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-lightgrey?style=for-the-badge" />
 </p>
